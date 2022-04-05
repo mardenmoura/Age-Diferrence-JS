@@ -30,4 +30,6 @@ if (contiue === true) {
         "\n\nDiferença de idade entre as duas pessoas: " + ageDifference
     )
 
-} else (thanks)
+} else {
+    thanks
+}
