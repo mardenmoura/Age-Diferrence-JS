@@ -13,7 +13,7 @@ alert(
 )
 
 let contiue = confirm("Clique em OK para retornar e CANCEL para terminar.")
-let tanks = alert("Obrigado!")
+let thanks = alert("Obrigado!")
 if (contiue === true) {
 
     let olderPersonName = prompt("Digite o nome da pessa mais velha")
@@ -30,4 +30,4 @@ if (contiue === true) {
         "\n\nDiferença de idade entre as duas pessoas: " + ageDifference
     )
 
-} else (tanks)
+} else (thanks)
